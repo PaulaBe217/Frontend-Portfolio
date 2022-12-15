@@ -1,0 +1,90 @@
+div.principal {
+    display: block;
+    width: fit-content;
+    background-color: rgb(8, 47, 81);
+}
+div.sobremi {
+    width: 100%;
+    height: fit-content;
+    background-color: rgb(8, 47, 81);
+    margin-top: 5px;
+    padding: 5px 15px 15px 15px;
+}
+h1.titulo-seccion {
+    font-family: sans-serif;
+    font-size: 1,2em;
+}
+.titulo2 {
+    font-family: sans-serif;
+    font-size: 1,2em;
+}
+.titulo3 {
+    font-family: sans-serif;
+    font-size: 1,15em;
+}
+p {
+    font-family: sans-serif;
+    font-size: 1,em;
+}
+img.yo {
+    width: 200px;
+    height: fit-content;
+    margin-left: 50px;
+    margin-top: 250px;
+}
+img.icon {
+    display: block;
+    width: 70px;
+    height: auto;
+}
+div.encabezado {
+    display: block;
+    width: 100%;
+    height: 20%;
+    background-color: rgb(91, 198, 205);
+    padding: 15px 10px 15px 10px;
+}
+div.portada {
+    height: 70px;
+    margin: 20px 30px 20px 30px;
+}
+div.argentinaprograma {
+    width: 20%;
+    float: left;
+
+}
+div.redes {
+    width: 80%;
+    height: 100%;
+    float: right;
+    text-align: right;
+}
+
+div.experiencialaboral{
+    display: block;
+    width: 100%;
+    height: fit-content;
+    background-color: rgb(91, 198, 205);
+    padding: 15px 15px 15px 15px;
+}
+div.habilidades {
+    display: block;
+    width: 100%;
+    height: fit-content;
+    background-color: rgb(91, 198, 205);
+    padding: 15px 15px 15px 15px;
+}
+div.conocimientos {
+    display: block;
+    width: 100%;
+    height: fit-content;
+    background-color: rgb(255, 250, 122);
+    padding: 15px 15px 15px 15px;
+}
+div.proyectos {
+    display: block;
+    width: 100%;
+    height: fit-content;
+    background-color: rgb(255, 250, 122);
+    padding: 15px 15px 15px 15px;
+}
