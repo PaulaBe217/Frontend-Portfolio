@@ -41,20 +41,15 @@ body{
     font-family: monospace;
 }
 /*---------PORTADA-------------*/
-
-#portada {
-    background-color:rgb(250, 144, 225);
-
+#portada{
+    background-color:grey;
 }
-.presentacion{
-    background-color:rgb(223, 247, 186);
-    margin: 30px 5px 30px 5px;
+.miportada {
+    background-color: blueviolet;
+    margin: 20px 20px 20px 20px;
 }
-#nombre {
-    margin: 20px 0px 20px 50px;
-    background-color:rgb(172, 172, 115);
-    font-family:monospace;
-    font-size: 30px;
+.nombre {
+    background-color: rgb(215, 100, 100);
 }
 .midescripcion {
     background-color:yellow;
@@ -66,42 +61,17 @@ body{
 
 #experiencia {
     background-color:greenyellow;
+    height: auto;
+}
+.containerexperiencia {
+    background-color:red;
 }
 .descripcion {
     background-color:yellow;
-    margin: 20px 0px 20px 20px;
+    margin: 20px 20px 20px 20px;
+    height: auto;
 }
-.image {
-    margin: 30px 5px 30px 5px;
-    height: 150px;
-    width: auto;
-}
-.descripcion h1 {
-    font-family:monospace;
-    font-size: 20px;
-    margin: 20px 0px 10px 5px;
+.imagen01 {
     background-color:rgb(167, 138, 248);
-}
-.descripcion p {
-    font-size: 15px;
-    margin: 5px 0px 10px 20px;
-    background-color:rgb(147, 121, 1);
-}
-.btn-outline-info{
-    margin: 10px 10px 10px 10px;
-}
-.icon{
-    margin: 20px 15px 15px 30px;
-}
-
-.bi {
-    margin: 5px 5px 5px 5px;
-    color: blueviolet;
-    visibility: visible;
-}
-.titulo1{
-    visibility: visible;
-}
-.btn {
-    color: blueviolet;
+    width: auto;
 }
